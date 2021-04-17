@@ -6,4 +6,9 @@ Created on Sat Apr 17 07:38:19 2021
 """
 
 #Example repositor
-This is a sample repo, Hello Github 
+This is a sample repo, Hello third change
+
+Second change 
+
+Third change
+
